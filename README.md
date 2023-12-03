@@ -14,5 +14,5 @@ OpenCV-Python Tutorials
 <img src="./Homework4.gif" width="100%" height="100%" title="QCQI Visualization" alt="Homework2"></img>
 
 # Homework5 
-<img src="./Homework5.gif" width="100%" height="100%" title="QCQI Visualization" alt="Homework2"></img>
+<img src="./homework5.gif" width="100%" height="100%" title="QCQI Visualization" alt="Homework2"></img>
 
